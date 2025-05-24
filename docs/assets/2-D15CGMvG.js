@@ -1,0 +1,1 @@
+import{w as e}from"./with-props-CzzRkTLu.js";import"./chunk-D4RADZKF-LIjikkOn.js";function i({}){return[{title:"New React Router App"},{name:"description",content:"Welcome to React Router!"}]}const c=e(function({params:t}){return t.id});export{c as default,i as meta};
