@@ -1,7 +1,7 @@
 {
   "name": "automatify",
   "private": true,
-  "homepage": "https://github.com/JZ6/Automatify/",
+  "homepage": "https://github.com/JZ6/Automatify",
   "type": "module",
   "scripts": {
     "build": "react-router build && npm run mvtodocs",
